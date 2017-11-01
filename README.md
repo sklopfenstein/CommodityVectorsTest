@@ -25,3 +25,5 @@ To read it:
 `ipython notebook`
 
 the notebook is under directory "ipython notebook"
+
+I added a Pull Reqest to make commentaries and questions about the code and the methodology.
